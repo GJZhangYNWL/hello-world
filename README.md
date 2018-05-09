@@ -10,3 +10,4 @@ First repository in Github
 
 ### Make change and Commit
 + Commit means saved changes in github. Each commit has an associated commit message used to explain why a particular change was made.
++ It is easy.
